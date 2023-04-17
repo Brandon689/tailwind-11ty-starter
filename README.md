@@ -11,4 +11,4 @@
 This example site accompanies the blog post [Building a static site with
 Eleventy and Tailwind](https://brettops.io/blog/static-site-eleventy-tailwind/).
 
-[View the example site](https://brettops.gitlab.io/examples/eleventy-tailwind-site)
+**[View the example site](https://brettops.gitlab.io/examples/eleventy-tailwind-site)**
